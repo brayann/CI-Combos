@@ -41,7 +41,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'tunnel.pagodabox.com';
 $db['default']['username'] = 'gussie';
 $db['default']['password'] = 'zrKbmXjT';
 $db['default']['database'] = 'imobiliaria'; //altere para seu banco

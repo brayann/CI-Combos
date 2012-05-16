@@ -42,8 +42,8 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'root';
+$db['default']['username'] = 'gussie';
+$db['default']['password'] = 'zrKbmXjT';
 $db['default']['database'] = 'imobiliaria'; //altere para seu banco
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
